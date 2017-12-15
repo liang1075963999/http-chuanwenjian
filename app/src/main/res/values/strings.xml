@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Car</string>
+    <string name="refresh_frequency">Refresh Frequency</string>
+    <string name="gps_sign">GPS Sign</string>
+    <string name="Accelerometer_signs">Accelerometer_signs(Multiple identifiers are separated by commas)</string>
+    <string name="unit">times/second</string>
+    <string name="start_recording_data">Start Recording Data</string>
+    <string name="finish_recording_data">Finish Recording Data</string>
+    <string name="Set_the_frequency">Set</string>
+    <string name="suspend_data_collection">Suspend data collection</string>
+    <string name="pause">pause</string>
+    <string name="Continue" >Continue</string>
+    <string name="upload_file">Upload File</string>
+    <string name="accelerometers">accelerometers</string>
+    <string name="mobile_hotspot">Mobile hotspot</string>
+    <string name="open_success">open success</string>
+    <string name="open_fail">failed to open,please manually open</string>
+    <string name="start_writing">Start writing</string>
+    <string name="file_save">File has been saved to</string>
+    <string name="fresh_out_range">Data is out of range</string>
+    <string name="format_err">Data format error</string>
+    <string name="acc_wrong">Accelerometer signs are wrong</string>
+    <string name="net_wrong">Internet connection is not available</string>
+    <string name="sensor_not_ready">The sensor is not ready</string>
+    <string name="gps_not_ready">GPS is not ready</string>
+</resources>
